@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "logs_a_u_oper_3", "logs_a_u_oper_3.pyproj", "{EF197B7B-70CB-43DA-B10E-C66A185861C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF197B7B-70CB-43DA-B10E-C66A185861C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF197B7B-70CB-43DA-B10E-C66A185861C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CB1267D-9BAC-4FFA-B9B5-0F71494DE2D7}
+	EndGlobalSection
+EndGlobal
